@@ -1,7 +1,6 @@
 
-Studiindependent
+Version Control and Branch Management SECTION 2
 
-14/02/2022 Day 1
 Single User (Lokal hanya bisa diakses oleh 1 orang)
 Centralized (Bisa diakses oleh beberapa orang cuman jika server mati tidak bisa diakses)
 Distributed (diakses oleh banyak orang/team dan jika servers mati maka masih bisa digunakan via lokal nanti jika server sudah normal bisa dipush kembali ke server)
