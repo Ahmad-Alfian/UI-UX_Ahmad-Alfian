@@ -1,6 +1,6 @@
 
 Studi case A :
-Menurut saya UI/UX yang A ditujukan kepada USER 40tahun keatas dapat dilihat dari UX pengaturan tombol yang terlihat besar-besar dari besarnya tombol-tombol tersebut sehingga nampak sekali UI yang kurang ringkas.
+Menurut saya UI/UX yang A ditujukan kepada USER 35-40tahun keatas dapat dilihat dari UX pengaturan tombol yang terlihat besar-besar dari besarnya tombol-tombol tersebut sehingga nampak sekali UI yang kurang ringkas.
 
 Studi case B :
 Menurut saya UI/UX Aplikasi B ditujukan kepada user muda yakni umur 17-35 dapat dilihat dari UInya yang terlihat simpel dan juga tombol-tombolnya yang kecil sehingga dalam satu halaman dapan menampilkan opsi menu yang banyak dibanding dengan yang A.
