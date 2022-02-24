@@ -1,4 +1,5 @@
-User Persona
+(24/02/2022) Materi Section 4 User Persona
+
 Point Pentingnya:
 Memahami User : desainer produk bisa memahami dengan lebih mudah apa yang lebih mereka butuhkan, ekpetasi mereka, serta solusi-solusi yang dihadapi user.
 Membantu Mengambil Keputusan : dengan mengetahui gambaran user melalui user persona.  desainer bisa mengambil keputusan secara tepat.
