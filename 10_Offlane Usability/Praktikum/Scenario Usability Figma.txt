@@ -1,0 +1,31 @@
+Usability Testing
+Masalah:
+User tidak bisa melanjutkan pemilihan product (Colour/size) sebelum CO (Check Out)
+Tools :
+•	Handphone
+•	Laptop
+User ceriteria :
+•	User sering belanja online dishopping app
+•	19-25 Tahun
+•	Device Android/Iphone
+Rules :
+•	Tidak boleh mengarahkan user
+•	Mendengarkan dan mencatat insight / feedback dari user
+
+Skenario Usability
+Goals :
+•	User dapat menjelajahi pilihan warna dan size produk ketika membeli item
+•	Memastikan dan Memvalidasi Pilihan Product (size/colour) sebelum CO
+Condition : 
+•	User sudah berada di product page
+Scenario :
+•	Mbak/Mas akan berbelanja di aplikasi online shoping lalu memilih product (warna&size) sebelum CO
+Post Question :
+•	Menurut Mbak/Mas apakah dari awal sampai dalam pemilihan product (warna/size) mengalami kesulitan?
+Metric  :
+•	User berhasil memilih product (warna/ukuran) sebelum checkout 
+Success Criteria :
+•	Sudah bisa memilih barang (warna/ukuran) yang sesuai, dengan baik.
+
+Berikut terlampir link tugas figma Offlane Usability:
+https://www.figma.com/file/2FVeORpcYdSXfqNwRTUR6p/Tugas-Skenario-Usability?node-id=0%3A1
