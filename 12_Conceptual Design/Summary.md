@@ -1,3 +1,4 @@
+Materi Section 13 16/03/2022 :
 Conceptual Design :
 
 Keep is Short and Simple (KISS) : Desain yang dibuat harus pendek dan simple
