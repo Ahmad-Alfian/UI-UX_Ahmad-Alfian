@@ -1,3 +1,6 @@
+Materi Section 13 18/03/2022 :
+Behavior Change Strategies :
+
 Fogg Behavior Model:
 Fogg adalah konsep yang dirancang untuk menjelaskan tingkat adopsi produk oleh masyarakat konsumen tetapi juga dapat diterapkan ke berbagai aplikasi.
 Motivation+Ability+Prompt=Behavior Change
