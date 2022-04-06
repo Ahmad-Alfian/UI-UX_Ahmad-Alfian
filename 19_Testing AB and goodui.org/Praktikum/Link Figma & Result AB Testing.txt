@@ -1,0 +1,11 @@
+Berikut ini terlampir link figma penugasan A/B Testing :
+https://www.figma.com/file/stJcwdwpWaougSaPVFRytd/A%2FB-Testing?node-id=0%3A1
+
+Result A/B Testing :
+Dari design website A dan B yang saya buat titik fokus adalah perbandingan design pada bagian Search Bar, untuk design website A saya mengambil dari template robin dan design website B hasil desain saya dari tugas web guides.
+Saya melakukan run testing kepada 3 orang dan hasilnya A/B testinya:
+1. Untuk design website B mendapatkan pilihan pertama yaitu dengan presentase 66,7%
+2. Untuk design website A mendapatkan presentasi 33,3%
+
+Kesimpulannya : dari kedua perbandingan design search bar pada kedua website tersebut user lebih memilih search bar pada website B dikarenakan Lebih mudah ditemukan dan penempatanya yang pas tidak memakan size dari lebar website.
+Untuk alasan pemilihan desain dapat dilihat dari data yang sudah saya screenshot
