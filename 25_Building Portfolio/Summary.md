@@ -34,7 +34,7 @@ Pada proses ini, kalian akan menceritakan solusi dan bagaimana proses mendapatka
 •	Jelaskan apa saja opsi desain yang kamu buat.
 •	Kenapa kamu akhirnya membuat solusi akhir yang demikian.
 
-4.	Proses Dari Desain yang Kamu Lakukan
+4.	Deliverables
 Sertakan dokumentasi yang kamu bisa tampilkan yang berhubungan dengan portfolio yang kamu buat. jelaskan kenapa kamu membuat dokumen tersebut. contoh dokumennya di antara lain:
 •	User flow
 •	User stories
